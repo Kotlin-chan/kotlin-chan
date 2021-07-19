@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100" height="100" src="https://cdn.discordapp.com/emojis/844997234877661184.png" alt="logo">
+    <img width="100" height="100" src="https://pbs.twimg.com/profile_images/1416307566401908736/mKfCbqPi.jpg" alt="logo">
     <h1><b>Hello ✌️</b></h1>
 </div>
 
