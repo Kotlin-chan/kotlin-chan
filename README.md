@@ -6,7 +6,7 @@
 <p align="center">A backend and security engineer writing <a href="https://java.com">Java</a> and <a href="https://kotlinlang.org">Kotlin</a> for 6 years.</p>
 
 <div align="center">
-    <img src="https://img.shields.io/static/v1?label=Version&message=v1.0.0&style=flat-square&color=blueviolet" alt="version">
+    <img src="https://img.shields.io/static/v1?label=Version&message=0.0.1-Snapshot&style=flat-square&color=blueviolet" alt="version">
     <img src="https://img.shields.io/static/v1?label=Life&message=Failed&style=flat-square&color=critical" alt="life">
     <a href="https://www.mhlw.go.jp/web/t_doc?dataId=73022000&dataType=0&pageNo=1"><img src="https://img.shields.io/static/v1?label=License&message=%E5%8A%B4%E5%83%8D%E5%9F%BA%E6%BA%96%E6%B3%95&style=flat-square&color=blue" alt="license"></a>
     <a href="https://twitter.com/kotx__"><img src="https://img.shields.io/static/v1?label=Twitter&message=@kotx__&style=flat-square&color=green" alt="twitter"></a>
